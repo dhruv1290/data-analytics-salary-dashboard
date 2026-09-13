@@ -30,7 +30,9 @@ The following Excel skills were utilized for analysis:
 - Data Cleaning & Transformation 
 
 ## Data Jobs Dataset
-The dataset used for this project contains real-world data science job information from 2023. The dataset is available via my Excel course, which provides a foundation for analyzing data using Excel. It includes detailed information on:
+The dataset contains real-world data job information from 2023, including job titles, salaries, locations, employment types, job platforms, and other role-related attributes.
+
+The data was cleaned and structured in Excel before being used to build the interactive salary dashboard and supporting analysis.. It includes detailed information on:
 👨‍💼 Job titles
 💰 Salaries
 📍 Locations
@@ -55,4 +57,4 @@ These insights can support career planning and job-market decision-making.
 ---
 
 ## Conclusion
-I created this dashboard to showcase insights into salary trends across various data-related job titles. Utilizing data from my Excel course, this dashboard allows users to make informed decisions about their career paths. Exploring the functionalities to understand how location and job type influence salaries.
+This project demonstrates how Excel can be used to clean, analyse, and visualise job-market data. The dashboard helps users compare salary patterns across data roles, locations, employment types, and job platforms through interactive filtering and summary metrics.
