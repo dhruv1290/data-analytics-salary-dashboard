@@ -1,6 +1,10 @@
 # Data-Analytics-Salary-Dashboard (Excel)
 Interactive Excel Dashboard analyzing salary trends across data roles, locations, and job types.
 
+## Dashboard Preview
+
+![Data Analytics Salary Dashboard](Dashboard_overview.png)
+
 ## Project Overview
 This project presents an interactive Excel dashboard that analyzes salary trends across data-related roles.  
 The dashboard enables users to explore how salaries vary by **job title**, **location**, and **employment type**, helping job seekers and analysts understand market patterns.
