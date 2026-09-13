@@ -1,64 +1,76 @@
 # Data-Analytics-Salary-Dashboard (Excel)
-Interactive Excel Dashboard analyzing salary trends across data roles, locations, and job types.
+Interactive Excel dashboard analyzing salary trends across data-related roles, locations, and employment types.
 
 ## Dashboard Preview
 
 ![Data Analytics Salary Dashboard](Dashboard_overview.png)
 
 ## Project Overview
-This project presents an interactive Excel dashboard that analyzes salary trends across data-related roles.  
-The dashboard enables users to explore how salaries vary by **job title**, **location**, and **employment type**, helping job seekers and analysts understand market patterns.
 
+This project analyzes 2023 data-science job market data using Microsoft Excel.
 
-## Key Insights
-- Salary comparison across job roles (Data Analyst, Data Scientist, Business Analyst, etc.)
-- Analysis by country and employment type (Full-time, Part-time, Contract)
-- Median salary and job count insights
-- Top job platforms visualized
+The dashboard was designed to help users explore how salaries and job opportunities vary across job titles, countries, and employment types. Interactive slicers allow users to dynamically filter the dashboard and compare different segments of the job market.
 
-## Excel Skills Used
-The following Excel skills were utilized for analysis:
+## My Process
 
-📉 Charts
-🧮 Formulas and Functions
-❎ Data Validation
-
-## Tools & Technologies
-- Microsoft Excel  
-- Pivot Tables & Pivot Charts  
-- Excel Functions:
-  - `VLOOKUP`
-  - `MEDIAN`
-  - `COUNTIF` / `COUNTIFS`
-  - Logical functions (`IF`, `IFS`)
-- Data Cleaning & Transformation 
-
-## Data Jobs Dataset
-The dataset contains real-world data job information from 2023, including job titles, salaries, locations, employment types, job platforms, and other role-related attributes.
-
-The data was cleaned and structured in Excel before being used to build the interactive salary dashboard and supporting analysis.. It includes detailed information on:
-👨‍💼 Job titles
-💰 Salaries
-📍 Locations
-🛠️ Skills
+- Cleaned and validated the dataset and prepared fields for analysis
+- Structured the data for PivotTable analysis
+- Used Excel formulas and functions to calculate and validate key metrics
+- Built PivotTables and PivotCharts to summarize salary and job-market patterns
+- Compared results across job titles, countries, and employment types
+- Designed an interactive dashboard using slicers for dynamic filtering
+- Reviewed the results and summarized key findings from the analysed data
 
 ## Dashboard Features
-- Role-wise salary comparison
+
+- Salary comparison across data-related job roles
 - Median salary KPI
-- Job type analysis (Full-time, Part-time, Contract)
-- Geographic salary distribution
-- Top job platform identification
-- Interactive slicers for dynamic filtering
+- Job count KPI
+- Country-level salary analysis
+- Employment-type comparison
+- Job-platform analysis
+- Interactive slicers for Job Title, Country, and Employment Type
 
-## Key Insights & Business Takeaways
-- Senior and specialized roles command higher median salaries than entry-level roles
-- Full-time positions dominate the job market across most data roles
-- Location has a significant impact on salary variation
-- LinkedIn is the most common platform for data-related job postings
-- Data Analyst and Business Analyst roles show strong demand with competitive compensation
+## Key Insights
 
-These insights can support career planning and job-market decision-making.
----
+- Salary levels vary considerably across different data-related roles
+- Senior and specialized roles generally show higher salary levels than entry-level roles
+- Full-time employment represents a large proportion of the job records in the analysed dataset
+- Salary patterns vary across countries and locations
+- Job-platform usage and job availability vary depending on the selected role, location, and employment type
+
+## Tools & Skills Used
+
+- Microsoft Excel
+- PivotTables
+- PivotCharts
+- Interactive Slicers
+- VLOOKUP
+- MEDIAN
+- COUNTIF / COUNTIFS
+- IF / IFS
+- Data Cleaning
+- Data Validation
+- Data Transformation
+- Dashboard Design
+- Data Analysis
+- Business Insight Generation
+
+## Dataset
+
+The project uses 2023 data-science job market data containing information such as:
+
+- Job titles
+- Salaries
+- Countries and locations
+- Employment types
+- Job platforms
+- Skills and other job-related attributes
+
+The dataset was cleaned and structured in Excel before being used for analysis and dashboard development.
 
 ## Conclusion
-This project demonstrates how Excel can be used to clean, analyse, and visualise job-market data. The dashboard helps users compare salary patterns across data roles, locations, employment types, and job platforms through interactive filtering and summary metrics.
+
+This project demonstrates the use of Excel to clean, analyze, and visualize job-market data through an interactive dashboard.
+
+The final dashboard enables users to explore salary and employment patterns across different roles, locations, and employment types while demonstrating practical Excel skills in data preparation, analysis, and visualization.
